@@ -5,6 +5,7 @@ Ejemplo de pagina web con Html,Css,JavaScript.
 ![foto2](https://user-images.githubusercontent.com/117450061/205749973-5649b166-ee7d-4b8a-bdab-52b29a73448a.png)
 ![foto3](https://user-images.githubusercontent.com/117450061/205749994-34fe5fcb-e7f7-4610-aacc-8f21727e2fd4.png)
 ![foto4](https://user-images.githubusercontent.com/117450061/205750016-eae27192-ba8e-4916-a384-e13a276fa0e9.png)
+![foto5](https://user-images.githubusercontent.com/117450061/205750530-4af906ac-3e5a-4f14-9ee2-dcac6e7c658f.png)
 ![foto6](https://user-images.githubusercontent.com/117450061/205750116-ae5a05e9-a1d9-4ef3-9f1f-06abbd63a1b9.png)
 ![foto7](https://user-images.githubusercontent.com/117450061/205750130-e4129e0c-a455-4d54-8b8e-025b9da54e41.png)
 ![foto8](https://user-images.githubusercontent.com/117450061/205750148-d227dac0-92b2-40f5-a163-7b473822e018.png)
